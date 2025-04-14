@@ -17,3 +17,5 @@ A React + Vite web app styled with Tailwind CSS that displays Marvel Rivals char
 - 📋 One-click "Copy to Clipboard" functionality  
 - 🔍 Modal popup with detailed view and image  
 - 💡 Clean, modern, and responsive UI using Tailwind & DaisyUI  
+
+![Preview](./public/preview.png)
