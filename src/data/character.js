@@ -370,6 +370,17 @@ const characters = [
     crosshairCode:
       "4;0;10.0,0.0,19.0,17.0;100.0,52.0,30.0,100.0;20.0,0.0,0.0,0.0;100.0,100.0,100.0,100.0;0.0,0.0,100.0,62.0;33.0,55.0,75.0,33.0;59.0;100.0,52.0,30.0,100.0;46.0;5.0,5,0,3;0.0,0.0,0.0",
   },
+  {
+    id: 80,
+    name: "Emma frost",
+    category: "Tank",
+    image:
+      "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfS8zhW6g9uc9CffBMxmWaXawObTyZodBsYgSouLYOdEPuWshI77x7kBDN-FQ7KZyOaFbUrzXj6rlpdmIYMYdymtY8LijJq7tLBZI1Vl_qqAaEi_2vHEF_I-pLgRgWlZ-0zZJkq?key=stlux6wSCH7LoztErL9lOMdh",
+    image2:
+      "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRey7EGfOqUzcpOUWytR8WDycwB0a3hTwLlF4l8wtSitr1ctEJQYCKn2KFMheGYAP0yVplG8_e2te9NH8v7uLP9fK13mwFaqhrrGh9S9e-0bFOe_-WZRsvgNrlBVZ5XLmdrZPt?key=stlux6wSCH7LoztErL9lOMdh",
+    crosshairCode:
+      "4;0.0;6.0,18.0,100.0,0.0;100.0,50.0,100.0,0.0;50.0,0.0,0.0,0.0;100.0,100.0,100.0,100.0;0.0,0.0,0.0,0.0;33.0,20.0,4.0,33.0;45.0;100.0,50.0,100.0,0.0;79.0;5,5,3,5;0.0,0.0,0.0",
+  },
 
   {
     id: 25,
