@@ -19,3 +19,5 @@ A React + Vite web app styled with Tailwind CSS that displays Marvel Rivals char
 - 💡 Clean, modern, and responsive UI using Tailwind & DaisyUI  
 
 ![Preview](./public/preview.png)
+
+# Test
